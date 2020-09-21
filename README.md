@@ -1,5 +1,5 @@
 Trabalho1
-Introdução
+Introdução:
 
 O programa é similar a um site de lojas de roupas, como, por exemplo, o das lojas Renner. Informa o tipo de peça, marca, cor, gênero, tamanho, valor, numeração, coleção, seu ano de lançamento e estilo, com o objetivo de ajudar a pessoa/cliente a localizar examente a peça que deseja.
 
